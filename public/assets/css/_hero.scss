@@ -1,0 +1,41 @@
+.hero{
+
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    img{
+        height: 800px;
+        margin-top: 2rem;
+    }
+}
+.hero__title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    h1{
+        color: $light;
+        font-size: 48px;
+        width: 441px;
+    }
+    p{
+        color: $light;
+        font-weight: 100;
+        font-family: $paragraph;
+        width: 466px;
+    }
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4rem;
+
+    div{
+        margin: 10px;
+    }
+}

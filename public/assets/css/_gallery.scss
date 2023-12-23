@@ -1,0 +1,22 @@
+.gallery{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.gallery__image{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+    margin-bottom: 2rem;
+    img{
+        width: 225px;
+        border-radius: 13px;
+        padding: 10px;
+        
+    }
+}

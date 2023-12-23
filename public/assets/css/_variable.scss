@@ -1,0 +1,16 @@
+@font-face {
+    font-family:'graphik' ;
+    src: url(../fonts/Graphik-Regular.ttf);
+}
+@font-face {
+    font-family:'graphik-light' ;
+    src: url(../fonts/Graphik-Light.ttf);
+}
+
+$dark:#181818;
+$blue:#4452FE;
+$light:#ffff;
+$gray:#343434;
+
+$graphik:'graphik';
+$paragraph:'graphik-light'

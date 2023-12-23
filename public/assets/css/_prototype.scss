@@ -1,0 +1,25 @@
+.prototype{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+    background-color: $gray;
+    padding: 2rem;
+    height: auto;
+    border-radius: 20px;
+    img{
+        height: 250px;
+        object-fit: contain;
+    }
+}
+
+.prototype__text{
+    text-align: center;
+    h2{
+        color: $light;
+        margin-right: 2rem;
+        font-size: 40px;
+        font-weight: 500;
+    }
+}

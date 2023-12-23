@@ -1,0 +1,30 @@
+.testimonial{
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    flex-wrap: wrap;
+}
+
+.testimonial__card{
+    border: 1px solid $light;
+    width: 350px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    .card-head{
+        display: flex;
+        align-items: center;
+        img{
+            margin-right: 5px;
+        }
+        .head-name{
+            line-height: 10px;
+        }
+    }
+    .card-content{
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        text-align: start;
+    }
+}

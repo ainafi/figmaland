@@ -1,0 +1,31 @@
+.content{
+    margin-top: 4rem;
+    height: auto;
+}
+.content__card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card{
+    background-color: $light;
+    padding: 2rem;
+    border-radius: 30px;
+    width: 340px;
+    margin: 10px;
+    
+}
+.card-cont{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    div{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    img{
+        height: 200px;
+    }
+}
