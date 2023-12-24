@@ -1,6 +1,6 @@
 # figmaland
 
-![figmaland](https://ibb.co/JkNVkBT)
+![figmaland](https://i.postimg.cc/wMccckD4/figmaland.png)
 
 ###[Live site](https://figmaland-aina.netlify.app/)
 
